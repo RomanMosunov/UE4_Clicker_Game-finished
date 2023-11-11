@@ -5,7 +5,7 @@ How to open:
 3. Open .sln file
 4. Wit until VS generates file
 5. Check that the path to the project contains Cyrillic characters!
-=
+
 1. Щелкните ПКМ на файле .uproject;
 2. Сгенерировать файлы проекта Visual wtudio
 3. Открыть файл .sln
